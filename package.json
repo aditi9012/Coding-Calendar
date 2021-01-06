@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/aditi9012/Coding-Calendar#readme",
   "dependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   }
 }
